@@ -1,12 +1,12 @@
 # 📊 Stock Market Realtime Dashboard
 
 A **React + TypeScript** based dashboard that visualizes stock market data using **Recharts**.  
-It fetches **real stock data** from the [Alpha Vantage API](https://www.alphavantage.co/) and displays candlestick charts, watchlists, and comparison views.
+It fetches **real stock data** from the [Finnhub API](https://finnhub.io/) and displays candlestick charts, watchlists, and comparison views.
 
 ## 🚀 Features
 
 - 📈 **Candlestick & Line Charts** (interactive with tooltips)
-- ⏳ **Real-time stock data** (via Alpha Vantage API)
+- ⏳ **Real-time stock data** (via Finnhub API)
 - 📝 **Custom Watchlists** (add/remove tracked stocks)
 - 🔔 **Price Alerts** (client-side notifications, coming soon)
 - 🎨 **Modern UI** with TailwindCSS + shadcn/ui
